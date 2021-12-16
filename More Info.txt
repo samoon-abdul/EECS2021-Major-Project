@@ -1,0 +1,3 @@
+PWM_Code.c is inline assembly code that runs through a pulse width modulation cycle
+MajorProjectFile.c is C and inline assembly code mixed that is the code used for the major project with two motors. The URL to the major project video 
+should be found in README.md
