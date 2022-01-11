@@ -5,7 +5,7 @@ Major Project for EECS2021. Uses C, Icarus Verilog, Inline Assembly in combinati
 
 ## Overview
 
-Console Application that allows user to simulate regenerative energy power generation canada
+Console Application that allows user to simulate regenerative energy power generation
 
 ## Function
 User can press and hold one of two buttons, first will allow user to store and charge an energy variable whilst other will let user prematurely stop charge. 
