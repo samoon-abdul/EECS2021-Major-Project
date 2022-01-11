@@ -14,7 +14,7 @@ Pulse Width Modulation is also shown and worked with
 ## Authors
 
 - [@samoon-abdul](https://github.com/samoon-abdul)
-- 
+
 ## Demo
 
 https://youtu.be/mNzDOFX5dHM
